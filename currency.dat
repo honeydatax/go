@@ -1,0 +1,3 @@
+select * from CURRENCYS order by CLIENT
+;
+.quit
