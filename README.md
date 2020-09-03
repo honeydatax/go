@@ -23,6 +23,8 @@ https://emscripten.org/docs/getting_started/downloads.html
 
 
 
+https://www.tutorialspoint.com/webassembly/index.htm
+
 
 
 
