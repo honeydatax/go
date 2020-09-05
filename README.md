@@ -29,6 +29,6 @@ https://www.tutorialspoint.com/webassembly/index.htm
 
 
 
-
+web will be fast secure free from text ,and complex function for online games will run very fast
 
 
