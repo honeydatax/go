@@ -16,11 +16,6 @@
 
 
 
-
-
-
-	$GOOS	$GOARCH
-	
 	
 	
 	
@@ -32,7 +27,7 @@
 	
 	
 
-js	wasm
+j	
 
 
 
